@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Live Site
 
 ## Getting Started
-****note: This API is no longer free to use. To see this project, go to the deployment [here]().****
+****note: This API is no longer free to use. To see this project, go to the deployment [here](https://ashtonkbailey.github.io/weatherly/).****
 1. Copy repository link
 2. `$git clone <paste link>`
 3. `$ cd` into repository
@@ -17,7 +17,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 7. `$ npm start`
 
 ### Prerequisites
-You will need your own API key to access the weather data. You can apply for a key [here](http://biz.weather.com/WU-Data-API_Data-Package-Demo-Request.html?utm_source=Weather%20Underground&utm_medium=webpage&utm_campaign=WREF_Q2_201804_CROSS_WW_%5BWU%20Data%20API%5D)
+You will need your own API key to access the weather data. You can apply for a key [here](http://biz.weather.com/WU-Data-API_Data-Package-Demo-Request.html?utm_source=Weather%20Underground&utm_medium=webpage&utm_campaign=WREF_Q2_201804_CROSS_WW_%5BWU%20Data%20API%5D). See step six above for instructions on implementing the key.
 
 ## Built With
 - React
@@ -25,5 +25,5 @@ You will need your own API key to access the weather data. You can apply for a k
 - Enzyme
 
 ## Authors
-Ashton Bailey - [@ashtonkbailey](https://github.com/ashtonkbailey)
-Aaron Weissman - [@aweissman](https://github.com/aweissman)
+- Ashton Bailey - [@ashtonkbailey](https://github.com/ashtonkbailey)
+- Aaron Weissman - [@aweissman](https://github.com/aweissman)
